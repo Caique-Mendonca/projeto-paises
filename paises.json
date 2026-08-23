@@ -3,1482 +3,2022 @@
     "id": 1,
     "nome_pais": "Abecásia",
     "bandeira_pais": "imagens bandeiras/Abecásia.svg",
-    "capital": "Sucumi"
+    "capital": [
+      "sucumi"
+    ]
   },
   {
     "id": 2,
     "nome_pais": "Afeganistão",
     "bandeira_pais": "imagens bandeiras/Afeganistão.svg",
-    "capital": "Cabul"
+    "capital": [
+      "cabul"
+    ]
   },
   {
     "id": 3,
     "nome_pais": "África do Sul",
     "bandeira_pais": "imagens bandeiras/Flag_of_South_Africa.svg",
-    "capital": "Pretória"
+    "capital": [
+      "pretoria",
+      "cidade do cabo",
+      "bloemfontein"
+    ]
   },
   {
     "id": 4,
     "nome_pais": "Albânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Albania.svg",
-    "capital": "Tirana"
+    "capital": [
+      "tirana"
+    ]
   },
   {
     "id": 5,
     "nome_pais": "Alemanha",
     "bandeira_pais": "imagens bandeiras/Flag_of_Germany.svg",
-    "capital": "Berlim"
+    "capital": [
+      "berlim"
+    ]
   },
   {
     "id": 6,
     "nome_pais": "Andorra",
     "bandeira_pais": "imagens bandeiras/Flag_of_Andorra.svg",
-    "capital": "Andorra-a-Velha"
+    "capital": [
+      "andorra-a-velha"
+    ]
   },
   {
     "id": 7,
     "nome_pais": "Angola",
     "bandeira_pais": "imagens bandeiras/Flag_of_Angola.svg",
-    "capital": "Luanda"
+    "capital": [
+      "luanda"
+    ]
   },
   {
     "id": 8,
     "nome_pais": "Anguilla",
     "bandeira_pais": "imagens bandeiras/Flag_of_Anguilla.svg",
-    "capital": "The Valley"
+    "capital": [
+      "the valley"
+    ]
   },
   {
     "id": 9,
     "nome_pais": "Antígua e Barbuda",
     "bandeira_pais": "imagens bandeiras/Flag_of_Antigua_and_Barbuda.svg",
-    "capital": "Santo António"
+    "capital": [
+      "sao joao",
+      "saint johns",
+      "saint john"
+    ]
   },
   {
     "id": 10,
     "nome_pais": "Arábia Saudita",
     "bandeira_pais": "imagens bandeiras/Flag_of_Saudi_Arabia.svg",
-    "capital": "Riade"
+    "capital": [
+      "riade",
+      "riad",
+      "riyadh"
+    ]
   },
   {
     "id": 11,
     "nome_pais": "Argélia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Algeria.svg",
-    "capital": "Argel"
+    "capital": [
+      "argel"
+    ]
   },
   {
     "id": 12,
     "nome_pais": "Argentina",
     "bandeira_pais": "imagens bandeiras/Flag_of_Argentina.svg",
-    "capital": "Buenos Aires"
+    "capital": [
+      "buenos aires"
+    ]
   },
   {
     "id": 13,
     "nome_pais": "Armênia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Armenia.svg",
-    "capital": "Erevã"
+    "capital": [
+      "ereva",
+      "yerevan",
+      "ierevan"
+    ]
   },
   {
     "id": 14,
     "nome_pais": "Aruba",
     "bandeira_pais": "imagens bandeiras/Flag_of_Aruba.svg",
-    "capital": "Oranjestad"
+    "capital": [
+      "oranjestad"
+    ]
   },
   {
     "id": 15,
     "nome_pais": "Austrália",
     "bandeira_pais": "imagens bandeiras/Flag_of_Australia_(converted).svg",
-    "capital": "Camberra"
+    "capital": [
+      "camberra"
+    ]
   },
   {
     "id": 16,
     "nome_pais": "Áustria",
     "bandeira_pais": "imagens bandeiras/Flag_of_Austria.svg",
-    "capital": "Viena"
+    "capital": [
+      "viena"
+    ]
   },
   {
     "id": 17,
     "nome_pais": "Azerbaijão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Azerbaijan.svg",
-    "capital": "Baku"
+    "capital": [
+      "baku"
+    ]
   },
   {
     "id": 18,
     "nome_pais": "Bahamas",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Bahamas.svg",
-    "capital": "Nassau"
+    "capital": [
+      "nassau"
+    ]
   },
   {
     "id": 19,
     "nome_pais": "Bahrein",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bahrain.svg",
-    "capital": "Manama"
+    "capital": [
+      "manama"
+    ]
   },
   {
     "id": 20,
     "nome_pais": "Bangladesh",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bangladesh.svg",
-    "capital": "Daca"
+    "capital": [
+      "daca"
+    ]
   },
   {
     "id": 21,
     "nome_pais": "Barbados",
     "bandeira_pais": "imagens bandeiras/Flag_of_Barbados.svg",
-    "capital": "Bridgetown"
+    "capital": [
+      "bridgetown"
+    ]
   },
   {
     "id": 22,
     "nome_pais": "Bélgica",
     "bandeira_pais": "imagens bandeiras/Flag_of_Belgium.svg",
-    "capital": "Bruxelas"
+    "capital": [
+      "bruxelas"
+    ]
   },
   {
     "id": 23,
     "nome_pais": "Belize",
     "bandeira_pais": "imagens bandeiras/Flag_of_Belize.svg",
-    "capital": "Belmopã"
+    "capital": [
+      "belmopa"
+    ]
   },
   {
     "id": 24,
     "nome_pais": "Benim",
     "bandeira_pais": "imagens bandeiras/Flag_of_Benin.svg",
-    "capital": "Porto-Novo"
+    "capital": [
+      "porto-novo"
+    ]
   },
   {
     "id": 25,
     "nome_pais": "Bermudas",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bermuda.svg",
-    "capital": "Hamilton"
+    "capital": [
+      "hamilton"
+    ]
   },
   {
     "id": 26,
     "nome_pais": "Bielorrússia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Belarus.svg",
-    "capital": "Minsk"
+    "capital": [
+      "minsk"
+    ]
   },
   {
     "id": 27,
     "nome_pais": "Birmânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Myanmar.svg",
-    "capital": "Naypyidaw"
+    "capital": [
+      "naypyidaw"
+    ]
   },
   {
     "id": 28,
     "nome_pais": "Bolívia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bolivia_(state).svg",
-    "capital": "Sucre"
+    "capital": [
+      "sucre",
+      "la paz"
+    ]
   },
   {
     "id": 29,
     "nome_pais": "Bósnia e Herzegovina",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bosnia_and_Herzegovina.svg",
-    "capital": "Sarajevo"
+    "capital": [
+      "sarajevo"
+    ]
   },
   {
     "id": 30,
     "nome_pais": "Botswana",
     "bandeira_pais": "imagens bandeiras/Flag_of_Botswana.svg",
-    "capital": "Gaborone"
+    "capital": [
+      "gaborone"
+    ]
   },
   {
     "id": 31,
     "nome_pais": "Brasil",
     "bandeira_pais": "imagens bandeiras/Flag_of_Brazil.svg",
-    "capital": "Brasília"
+    "capital": [
+      "brasilia"
+    ]
   },
   {
     "id": 32,
     "nome_pais": "Brunei",
     "bandeira_pais": "imagens bandeiras/Flag_of_Brunei.svg",
-    "capital": "Bandar Seri Begawan"
+    "capital": [
+      "bandar seri begawan"
+    ]
   },
   {
     "id": 33,
     "nome_pais": "Bulgária",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bulgaria.svg",
-    "capital": "Sófia"
+    "capital": [
+      "sofia"
+    ]
   },
   {
     "id": 34,
     "nome_pais": "Burkina Faso",
     "bandeira_pais": "imagens bandeiras/Flag_of_Burkina_Faso.svg",
-    "capital": "Uagadugu"
+    "capital": [
+      "uagadugu"
+    ]
   },
   {
     "id": 35,
     "nome_pais": "Burundi",
     "bandeira_pais": "imagens bandeiras/Flag_of_Burundi.svg",
-    "capital": "Gitega"
+    "capital": [
+      "gitega"
+    ]
   },
   {
     "id": 36,
     "nome_pais": "Butão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bhutan.svg",
-    "capital": "Thimphu"
+    "capital": [
+      "thimphu"
+    ]
   },
   {
     "id": 37,
     "nome_pais": "Cabo Verde",
     "bandeira_pais": "imagens bandeiras/Flag_of_Cape_Verde_(3-2).svg",
-    "capital": "Praia"
+    "capital": [
+      "praia"
+    ]
   },
   {
     "id": 38,
     "nome_pais": "Camarões",
     "bandeira_pais": "imagens bandeiras/Flag_of_Cameroon.svg",
-    "capital": "Iaundé"
+    "capital": [
+      "iaunde",
+      "yaounde"
+    ]
   },
   {
     "id": 39,
     "nome_pais": "Camboja",
     "bandeira_pais": "imagens bandeiras/Flag_of_Cambodia.svg",
-    "capital": "Phnom Penh"
+    "capital": [
+      "phnom penh"
+    ]
   },
   {
     "id": 40,
     "nome_pais": "Canadá",
     "bandeira_pais": "imagens bandeiras/Flag_of_Canada_(Pantone).svg",
-    "capital": "Ottawa"
+    "capital": [
+      "ottawa"
+    ]
   },
   {
     "id": 41,
     "nome_pais": "Catar",
     "bandeira_pais": "imagens bandeiras/Flag_of_Qatar.svg",
-    "capital": "Doha"
+    "capital": [
+      "doha"
+    ]
   },
   {
     "id": 42,
     "nome_pais": "Cazaquistão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Kazakhstan.svg",
-    "capital": "Astana"
+    "capital": [
+      "astana"
+    ]
   },
   {
     "id": 43,
     "nome_pais": "Chade",
     "bandeira_pais": "imagens bandeiras/Flag_of_Chad.svg",
-    "capital": "N'Djamena"
+    "capital": [
+      "n'djamena",
+      "ndjamena"
+    ]
   },
   {
     "id": 44,
     "nome_pais": "Chile",
     "bandeira_pais": "imagens bandeiras/Flag_of_Chile.svg",
-    "capital": "Santiago"
+    "capital": [
+      "santiago"
+    ]
   },
   {
     "id": 45,
     "nome_pais": "China",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_People's_Republic_of_China.svg",
-    "capital": "Pequim"
+    "capital": [
+      "pequim",
+      "beijing"
+    ]
   },
   {
     "id": 46,
     "nome_pais": "Chipre",
     "bandeira_pais": "imagens bandeiras/Flag_of_Cyprus.svg",
-    "capital": "Nicósia"
+    "capital": [
+      "nicosia"
+    ]
   },
   {
     "id": 47,
     "nome_pais": "Chipre do Norte",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg",
-    "capital": "Nicósia"
+    "capital": [
+      "nicosia"
+    ]
   },
   {
     "id": 48,
     "nome_pais": "Colômbia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Colombia.svg",
-    "capital": "Bogotá"
+    "capital": [
+      "bogota"
+    ]
   },
   {
     "id": 49,
     "nome_pais": "Comores",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Comoros.svg",
-    "capital": "Moroni"
+    "capital": [
+      "moroni"
+    ]
   },
   {
     "id": 50,
     "nome_pais": "Coreia do Norte",
     "bandeira_pais": "imagens bandeiras/Flag_of_North_Korea.svg",
-    "capital": "Pyongyang"
+    "capital": [
+      "pyongyang"
+    ]
   },
   {
     "id": 51,
     "nome_pais": "Coreia do Sul",
     "bandeira_pais": "imagens bandeiras/Flag_of_South_Korea.svg",
-    "capital": "Seul"
+    "capital": [
+      "seul"
+    ]
   },
   {
     "id": 52,
     "nome_pais": "Costa do Marfim",
     "bandeira_pais": "imagens bandeiras/Flag_of_Côte_d'Ivoire.svg",
-    "capital": "Yamoussoukro"
+    "capital": [
+      "yamoussoukro"
+    ]
   },
   {
     "id": 53,
     "nome_pais": "Costa Rica",
     "bandeira_pais": "imagens bandeiras/Flag_of_Costa_Rica.svg",
-    "capital": "São José"
+    "capital": [
+      "sao jose"
+    ]
   },
   {
     "id": 54,
     "nome_pais": "Croácia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Croatia.svg",
-    "capital": "Zagreb"
+    "capital": [
+      "zagreb"
+    ]
   },
   {
     "id": 55,
     "nome_pais": "Cuba",
     "bandeira_pais": "imagens bandeiras/Flag_of_Cuba.svg",
-    "capital": "Havana"
+    "capital": [
+      "havana"
+    ]
   },
   {
     "id": 56,
     "nome_pais": "Curaçao",
     "bandeira_pais": "imagens bandeiras/Flag_of_Curaçao.svg",
-    "capital": "Willemstad"
+    "capital": [
+      "willemstad"
+    ]
   },
   {
     "id": 57,
     "nome_pais": "Dinamarca",
     "bandeira_pais": "imagens bandeiras/Flag_of_Denmark.svg",
-    "capital": "Copenhague"
+    "capital": [
+      "copenhague",
+      "copenhaga",
+      "copenhagen"
+    ]
   },
   {
     "id": 58,
     "nome_pais": "Djibouti",
     "bandeira_pais": "imagens bandeiras/Flag_of_Djibouti.svg",
-    "capital": "Djibouti"
+    "capital": [
+      "djibouti"
+    ]
   },
   {
     "id": 59,
     "nome_pais": "Dominica",
     "bandeira_pais": "imagens bandeiras/Flag_of_Dominica.svg",
-    "capital": "Roseau"
+    "capital": [
+      "roseau"
+    ]
   },
   {
     "id": 60,
     "nome_pais": "Egito",
     "bandeira_pais": "imagens bandeiras/Flag_of_Egypt_(darker_shade_of_gold).svg",
-    "capital": "Cairo"
+    "capital": [
+      "cairo"
+    ]
   },
   {
     "id": 61,
     "nome_pais": "El Salvador",
     "bandeira_pais": "imagens bandeiras/Flag_of_El_Salvador.svg",
-    "capital": "San Salvador"
+    "capital": [
+      "san salvador"
+    ]
   },
   {
     "id": 62,
     "nome_pais": "Emirados Árabes Unidos",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_United_Arab_Emirates.svg",
-    "capital": "Abu Dhabi"
+    "capital": [
+      "abu dhabi"
+    ]
   },
   {
     "id": 63,
     "nome_pais": "Equador",
     "bandeira_pais": "imagens bandeiras/Flag_of_Ecuador.svg",
-    "capital": "Quito"
+    "capital": [
+      "quito"
+    ]
   },
   {
     "id": 64,
     "nome_pais": "Eritreia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Eritrea.svg",
-    "capital": "Asmara"
+    "capital": [
+      "asmara"
+    ]
   },
   {
     "id": 65,
     "nome_pais": "Eslováquia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Slovakia.svg",
-    "capital": "Bratislava"
+    "capital": [
+      "bratislava"
+    ]
   },
   {
     "id": 66,
     "nome_pais": "Eslovénia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Slovenia.svg",
-    "capital": "Ljubljana"
+    "capital": [
+      "ljubljana",
+      "liubliana"
+    ]
   },
   {
     "id": 67,
     "nome_pais": "Espanha",
     "bandeira_pais": "imagens bandeiras/Flag_of_Spain.svg",
-    "capital": "Madri"
+    "capital": [
+      "madri",
+      "madrid"
+    ]
   },
   {
     "id": 68,
     "nome_pais": "Essuatíni",
     "bandeira_pais": "imagens bandeiras/Flag_of_Eswatini.svg",
-    "capital": "Mbabane"
+    "capital": [
+      "mbabane"
+    ]
   },
   {
     "id": 69,
     "nome_pais": "Estados Unidos",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_United_States_(DDD-F-416E_specifications).svg",
-    "capital": "Washington, D.C."
+    "capital": [
+      "washington, d.c."
+    ]
   },
   {
     "id": 70,
     "nome_pais": "Estados Federados da Micronésia",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Federated_States_of_Micronesia.svg",
-    "capital": "Palikir"
+    "capital": [
+      "palikir"
+    ]
   },
   {
     "id": 71,
     "nome_pais": "Estônia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Estonia.svg",
-    "capital": "Tallinn"
+    "capital": [
+      "tallinn"
+    ]
   },
   {
     "id": 72,
     "nome_pais": "Etiópia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Ethiopia.svg",
-    "capital": "Adis Abeba"
+    "capital": [
+      "adis abeba"
+    ]
   },
   {
     "id": 73,
     "nome_pais": "Fiji",
     "bandeira_pais": "imagens bandeiras/Flag_of_Fiji.svg",
-    "capital": "Suva"
+    "capital": [
+      "suva"
+    ]
   },
   {
     "id": 74,
     "nome_pais": "Filipinas",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Philippines.svg",
-    "capital": "Manila"
+    "capital": [
+      "manila"
+    ]
   },
   {
     "id": 75,
     "nome_pais": "Finlândia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Finland.svg",
-    "capital": "Helsínquia"
+    "capital": [
+      "helsinquia",
+      "helsinque",
+      "helsinki"
+    ]
   },
   {
     "id": 76,
     "nome_pais": "França",
     "bandeira_pais": "imagens bandeiras/Flag_of_France.svg",
-    "capital": "Paris"
+    "capital": [
+      "paris"
+    ]
   },
   {
     "id": 77,
     "nome_pais": "Gabão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Georgia.svg",
-    "capital": "Libreville"
+    "capital": [
+      "libreville"
+    ]
   },
   {
     "id": 78,
     "nome_pais": "Gâmbia",
     "bandeira_pais": "imagens bandeiras/Flag_of_The_Gambia.svg",
-    "capital": "Banjul"
+    "capital": [
+      "banjul"
+    ]
   },
   {
     "id": 79,
     "nome_pais": "Gana",
     "bandeira_pais": "imagens bandeiras/Flag_of_Ghana.svg",
-    "capital": "Acra"
+    "capital": [
+      "acra"
+    ]
   },
   {
     "id": 80,
     "nome_pais": "Geórgia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Georgia.svg",
-    "capital": "Tbilisi"
+    "capital": [
+      "tbilisi",
+      "tiblissi",
+      "tbilisi"
+    ]
   },
   {
     "id": 81,
     "nome_pais": "Gibraltar",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_United_Kingdom_(1-2).svg",
-    "capital": "Gibraltar"
+    "capital": [
+      "gibraltar"
+    ]
   },
   {
     "id": 82,
     "nome_pais": "Granada",
     "bandeira_pais": "imagens bandeiras/Flag_of_Grenada.svg",
-    "capital": "St. George's"
+    "capital": [
+      "st. george's"
+    ]
   },
   {
     "id": 83,
     "nome_pais": "Grécia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Greece.svg",
-    "capital": "Atenas"
+    "capital": [
+      "atenas"
+    ]
   },
   {
     "id": 84,
     "nome_pais": "Groelândia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Greenland.svg",
-    "capital": "Nuuk"
+    "capital": [
+      "nuuk"
+    ]
   },
   {
     "id": 85,
     "nome_pais": "Guadalupe",
     "bandeira_pais": "imagens bandeiras/Unofficial_flag_of_Guadeloupe_(local).svg",
-    "capital": "Basse-Terre"
+    "capital": [
+      "basse-terre"
+    ]
   },
   {
     "id": 86,
     "nome_pais": "Guam",
     "bandeira_pais": "imagens bandeiras/Flag_of_Guam.svg",
-    "capital": "Hagåtña"
+    "capital": [
+      "hagatna"
+    ]
   },
   {
     "id": 87,
     "nome_pais": "Guatemala",
     "bandeira_pais": "imagens bandeiras/Flag_of_Guatemala.svg",
-    "capital": "Cidade da Guatemala"
+    "capital": [
+      "cidade da guatemala"
+    ]
   },
   {
     "id": 88,
     "nome_pais": "Guernsey",
     "bandeira_pais": "imagens bandeiras/Flag_of_Guernsey.svg",
-    "capital": "St. Peter Port"
+    "capital": [
+      "st. peter port"
+    ]
   },
   {
     "id": 89,
     "nome_pais": "Guiana",
     "bandeira_pais": "imagens bandeiras/Flag_of_Guyana.svg",
-    "capital": "Georgetown"
+    "capital": [
+      "georgetown"
+    ]
   },
   {
     "id": 90,
     "nome_pais": "Guiana Francesa",
     "bandeira_pais": "imagens bandeiras/Flag_of_French_Guiana.svg",
-    "capital": "Caiena"
+    "capital": [
+      "caiena",
+      "cayenne"
+    ]
   },
   {
     "id": 91,
     "nome_pais": "Guiné",
     "bandeira_pais": "imagens bandeiras/Flag_of_Guinea.svg",
-    "capital": "Conacri"
+    "capital": [
+      "conacri"
+    ]
   },
   {
     "id": 92,
     "nome_pais": "Guiné-Bissau",
     "bandeira_pais": "imagens bandeiras/Flag_of_Guinea-Bissau.svg",
-    "capital": "Bissau"
+    "capital": [
+      "bissau"
+    ]
   },
   {
     "id": 93,
     "nome_pais": "Guiné Equatorial",
     "bandeira_pais": "imagens bandeiras/Flag_of_Equatorial_Guinea.svg",
-    "capital": "Malabo"
+    "capital": [
+      "malabo"
+    ]
   },
   {
     "id": 94,
     "nome_pais": "Haiti",
     "bandeira_pais": "imagens bandeiras/Flag_of_Haiti.svg",
-    "capital": "Porto Príncipe"
+    "capital": [
+      "porto principe"
+    ]
   },
   {
     "id": 95,
     "nome_pais": "Honduras",
     "bandeira_pais": "imagens bandeiras/Flag_of_Honduras_(1949–2022,_2026–present).svg",
-    "capital": "Tegucigalpa"
+    "capital": [
+      "tegucigalpa"
+    ]
   },
   {
     "id": 96,
     "nome_pais": "Hong Kong",
     "bandeira_pais": "imagens bandeiras/Flag_of_Hong_Kong.svg",
-    "capital": "Hong Kong"
+    "capital": [
+      "hong kong"
+    ]
   },
   {
     "id": 97,
     "nome_pais": "Hungria",
     "bandeira_pais": "imagens bandeiras/Flag_of_Hungary.svg",
-    "capital": "Budapeste"
+    "capital": [
+      "budapeste"
+    ]
   },
   {
     "id": 98,
     "nome_pais": "Iémen",
     "bandeira_pais": "imagens bandeiras/Flag_of_Yemen.svg",
-    "capital": "Saná"
+    "capital": [
+      "sana"
+    ]
   },
   {
     "id": 99,
     "nome_pais": "Ilha Christmas",
     "bandeira_pais": "imagens bandeiras/Flag_of_Christmas_Island.svg",
-    "capital": "Flying Fish Cove"
+    "capital": [
+      "flying fish cove"
+    ]
   },
   {
     "id": 100,
     "nome_pais": "Ilha de Man",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Isle_of_Mann.svg",
-    "capital": "Douglas"
+    "capital": [
+      "douglas"
+    ]
   },
   {
     "id": 101,
     "nome_pais": "Ilha Norfolk",
     "bandeira_pais": "imagens bandeiras/Flag_of_Norfolk_Island.svg",
-    "capital": "Kingston"
+    "capital": [
+      "kingston"
+    ]
   },
   {
     "id": 102,
     "nome_pais": "Ilhas Cayman",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Cayman_Islands.svg",
-    "capital": "George Town"
+    "capital": [
+      "george town"
+    ]
   },
   {
     "id": 103,
     "nome_pais": "Ilhas Cocos (Keeling)",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Cocos_(Keeling)_Island.svg",
-    "capital": "West Island"
+    "capital": [
+      "west island"
+    ]
   },
   {
     "id": 104,
     "nome_pais": "Ilhas Cook",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Cook_Islands.svg",
-    "capital": "Avarua"
+    "capital": [
+      "avarua"
+    ]
   },
   {
     "id": 105,
     "nome_pais": "Ilhas Falkland",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Falkland_Islands.svg",
-    "capital": "Stanley"
+    "capital": [
+      "stanley"
+    ]
   },
   {
     "id": 106,
     "nome_pais": "Ilhas Feroe",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Faroe_Islands.svg",
-    "capital": "Tórshavn"
+    "capital": [
+      "torshavn"
+    ]
   },
   {
     "id": 107,
     "nome_pais": "Ilhas Marianas do Norte",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Northern_Mariana_Islands.svg",
-    "capital": "Saipan"
+    "capital": [
+      "saipan"
+    ]
   },
   {
     "id": 108,
     "nome_pais": "Ilhas Marshall",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Marshall_Islands.svg",
-    "capital": "Majuro"
+    "capital": [
+      "majuro"
+    ]
   },
   {
     "id": 109,
     "nome_pais": "Ilhas Pitcairn",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Pitcairn_Islands.svg",
-    "capital": "Adamstown"
+    "capital": [
+      "adamstown"
+    ]
   },
   {
     "id": 110,
     "nome_pais": "Ilhas Salomão",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Solomon_Islands.svg",
-    "capital": "Honiara"
+    "capital": [
+      "honiara"
+    ]
   },
   {
     "id": 111,
     "nome_pais": "Ilhas Turcas e Caicos",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Turks_and_Caicos_Islands.svg",
-    "capital": "Cockburn Town"
+    "capital": [
+      "cockburn town"
+    ]
   },
   {
     "id": 112,
     "nome_pais": "Ilhas Virgens Americanas",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_United_States_Virgin_Islands.svg",
-    "capital": "Charlotte Amalie"
+    "capital": [
+      "charlotte amalie"
+    ]
   },
   {
     "id": 113,
     "nome_pais": "Ilhas Virgens Britânicas",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_British_Virgin_Islands.svg",
-    "capital": "Road Town"
+    "capital": [
+      "road town"
+    ]
   },
   {
     "id": 114,
     "nome_pais": "Índia",
     "bandeira_pais": "imagens bandeiras/Flag_of_India.svg",
-    "capital": "Nova Déli"
+    "capital": [
+      "nova deli",
+      "new delhi"
+    ]
   },
   {
     "id": 115,
     "nome_pais": "Indonésia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Indonesia.svg",
-    "capital": "Jacarta"
+    "capital": [
+      "jacarta",
+      "jakarta"
+    ]
   },
   {
     "id": 116,
     "nome_pais": "Irão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Iran.svg",
-    "capital": "Teerão"
+    "capital": [
+      "teerao",
+      "teera"
+    ]
   },
   {
     "id": 117,
     "nome_pais": "Iraque",
     "bandeira_pais": "imagens bandeiras/Flag_of_Iraq.svg",
-    "capital": "Bagdá"
+    "capital": [
+      "bagda"
+    ]
   },
   {
     "id": 118,
     "nome_pais": "Irlanda",
     "bandeira_pais": "imagens bandeiras/Flag_of_Ireland.svg",
-    "capital": "Dublin"
+    "capital": [
+      "dublin"
+    ]
   },
   {
     "id": 119,
     "nome_pais": "Islândia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Iceland.svg",
-    "capital": "Reykjavík"
+    "capital": [
+      "reykjavik"
+    ]
   },
   {
     "id": 120,
     "nome_pais": "Israel",
     "bandeira_pais": "imagens bandeiras/Flag_of_Israel.svg",
-    "capital": "Jerusalém"
+    "capital": [
+      "jerusalem"
+    ]
   },
   {
     "id": 121,
     "nome_pais": "Itália",
     "bandeira_pais": "imagens bandeiras/Flag_of_Italy.svg",
-    "capital": "Roma"
+    "capital": [
+      "roma"
+    ]
   },
   {
     "id": 122,
     "nome_pais": "Jamaica",
     "bandeira_pais": "imagens bandeiras/Flag_of_Jamaica.svg",
-    "capital": "Kingston"
+    "capital": [
+      "kingston"
+    ]
   },
   {
     "id": 123,
     "nome_pais": "Japão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Japan.svg",
-    "capital": "Tóquio"
+    "capital": [
+      "toquio"
+    ]
   },
   {
     "id": 124,
     "nome_pais": "Jersey",
     "bandeira_pais": "imagens bandeiras/Flag_of_Jersey.svg",
-    "capital": "St. Helier"
+    "capital": [
+      "st. helier"
+    ]
   },
   {
     "id": 125,
     "nome_pais": "Jordânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Jordan.svg",
-    "capital": "Amã"
+    "capital": [
+      "ama"
+    ]
   },
   {
     "id": 126,
     "nome_pais": "Kiribati",
     "bandeira_pais": "imagens bandeiras/Flag_of_Kiribati.svg",
-    "capital": "Tarawa do Sul"
+    "capital": [
+      "tarawa do sul"
+    ]
   },
   {
     "id": 127,
     "nome_pais": "Kosovo",
     "bandeira_pais": "imagens bandeiras/Flag_of_Albania.svg",
-    "capital": "Priština"
+    "capital": [
+      "pristina"
+    ]
   },
   {
     "id": 128,
     "nome_pais": "Kuweit",
     "bandeira_pais": "imagens bandeiras/Flag_of_Kuwait.svg",
-    "capital": "Kuwait"
+    "capital": [
+      "kuwait"
+    ]
   },
   {
     "id": 129,
     "nome_pais": "Laos",
     "bandeira_pais": "imagens bandeiras/Flag_of_Laos.svg",
-    "capital": "Vientiane"
+    "capital": [
+      "vientiane",
+      "vienciana"
+    ]
   },
   {
     "id": 130,
     "nome_pais": "Lesoto",
     "bandeira_pais": "imagens bandeiras/Flag_of_Lesotho.svg",
-    "capital": "Maseru"
+    "capital": [
+      "maseru"
+    ]
   },
   {
     "id": 131,
     "nome_pais": "Letónia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Latvia.svg",
-    "capital": "Riga"
+    "capital": [
+      "riga"
+    ]
   },
   {
     "id": 132,
     "nome_pais": "Líbano",
     "bandeira_pais": "imagens bandeiras/Flag_of_Lebanon.svg",
-    "capital": "Beirute"
+    "capital": [
+      "beirute"
+    ]
   },
   {
     "id": 133,
     "nome_pais": "Libéria",
     "bandeira_pais": "imagens bandeiras/Flag_of_Liberia.svg",
-    "capital": "Monróvia"
+    "capital": [
+      "monrovia"
+    ]
   },
   {
     "id": 134,
     "nome_pais": "Líbia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Libya.svg",
-    "capital": "Trípoli"
+    "capital": [
+      "tripoli"
+    ]
   },
   {
     "id": 135,
     "nome_pais": "Liechtenstein",
     "bandeira_pais": "imagens bandeiras/Flag_of_Liechtenstein.svg",
-    "capital": "Vaduz"
+    "capital": [
+      "vaduz"
+    ]
   },
   {
     "id": 136,
     "nome_pais": "Lituânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Lithuania.svg",
-    "capital": "Vilnius"
+    "capital": [
+      "vilnius"
+    ]
   },
   {
     "id": 137,
     "nome_pais": "Luxemburgo",
     "bandeira_pais": "imagens bandeiras/Flag_of_Luxembourg.svg",
-    "capital": "Luxemburgo"
+    "capital": [
+      "luxemburgo"
+    ]
   },
   {
     "id": 138,
     "nome_pais": "Macau",
     "bandeira_pais": "imagens bandeiras/Flag_of_Hong_Kong.svg",
-    "capital": "Macau"
+    "capital": [
+      "macau"
+    ]
   },
   {
     "id": 139,
     "nome_pais": "Macedónia do Norte",
     "bandeira_pais": "imagens bandeiras/Flag_of_North_Macedonia.svg",
-    "capital": "Skopje"
+    "capital": [
+      "escopia",
+      "skopje"
+    ]
   },
   {
     "id": 140,
     "nome_pais": "Madagáscar",
     "bandeira_pais": "imagens bandeiras/Flag_of_Madagascar.svg",
-    "capital": "Antananarivo"
+    "capital": [
+      "antananarivo"
+    ]
   },
   {
     "id": 141,
     "nome_pais": "Malásia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Malaysia.svg",
-    "capital": "Kuala Lumpur"
+    "capital": [
+      "kuala lumpur"
+    ]
   },
   {
     "id": 142,
     "nome_pais": "Malawi",
     "bandeira_pais": "imagens bandeiras/Flag_of_Malawi.svg",
-    "capital": "Lilongwe"
+    "capital": [
+      "lilongwe"
+    ]
   },
   {
     "id": 143,
     "nome_pais": "Maldivas",
     "bandeira_pais": "imagens bandeiras/Flag_of_Maldives.svg",
-    "capital": "Malé"
+    "capital": [
+      "male"
+    ]
   },
   {
     "id": 144,
     "nome_pais": "Mali",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mali.svg",
-    "capital": "Bamako"
+    "capital": [
+      "bamako"
+    ]
   },
   {
     "id": 145,
     "nome_pais": "Malta",
     "bandeira_pais": "imagens bandeiras/Flag_of_Malta.svg",
-    "capital": "La Valeta"
+    "capital": [
+      "la valeta",
+      "valeta"
+    ]
   },
   {
     "id": 146,
     "nome_pais": "Marrocos",
     "bandeira_pais": "imagens bandeiras/Flag_of_Morocco.svg",
-    "capital": "Rabat"
+    "capital": [
+      "rabat"
+    ]
   },
   {
     "id": 147,
     "nome_pais": "Martinica",
     "bandeira_pais": "imagens bandeiras/Flag-of-Martinique.svg",
-    "capital": "Fort-de-France"
+    "capital": [
+      "fort-de-france"
+    ]
   },
   {
     "id": 148,
     "nome_pais": "Maurícia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mauritius.svg",
-    "capital": "Port Louis"
+    "capital": [
+      "port louis"
+    ]
   },
   {
     "id": 149,
     "nome_pais": "Mauritânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mauritania.svg",
-    "capital": "Nouakchott"
+    "capital": [
+      "nouakchott"
+    ]
   },
   {
     "id": 150,
     "nome_pais": "Mayotte",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mayotte_(local).svg",
-    "capital": "Mamoudzou"
+    "capital": [
+      "mamoudzou"
+    ]
   },
   {
     "id": 151,
     "nome_pais": "México",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mexico.svg",
-    "capital": "Cidade do México"
+    "capital": [
+      "cidade do mexico"
+    ]
   },
   {
     "id": 152,
     "nome_pais": "Moçambique",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mozambique.svg",
-    "capital": "Maputo"
+    "capital": [
+      "maputo"
+    ]
   },
   {
     "id": 153,
     "nome_pais": "Moldávia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Moldova.svg",
-    "capital": "Chișinău"
+    "capital": [
+      "chisinau"
+    ]
   },
   {
     "id": 154,
     "nome_pais": "Mônaco",
     "bandeira_pais": "imagens bandeiras/Flag_of_Andorra.svg",
-    "capital": "Mônaco"
+    "capital": [
+      "monaco"
+    ]
   },
   {
     "id": 155,
     "nome_pais": "Mongólia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mongolia.svg",
-    "capital": "Ulan Bator"
+    "capital": [
+      "ulan bator",
+      "ulaanbaatar"
+    ]
   },
   {
     "id": 156,
     "nome_pais": "Montenegro",
     "bandeira_pais": "imagens bandeiras/Flag_of_Montenegro.svg",
-    "capital": "Podgorica"
+    "capital": [
+      "podgorica"
+    ]
   },
   {
     "id": 157,
     "nome_pais": "Montserrat",
     "bandeira_pais": "imagens bandeiras/Flag_of_Montserrat.svg",
-    "capital": "Plymouth"
+    "capital": [
+      "plymouth"
+    ]
   },
   {
     "id": 158,
     "nome_pais": "Namíbia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Botswana.svg",
-    "capital": "Windhoek"
+    "capital": [
+      "windhoek"
+    ]
   },
   {
     "id": 159,
     "nome_pais": "Nauru",
     "bandeira_pais": "imagens bandeiras/Flag_of_Nauru.svg",
-    "capital": "Yaren"
+    "capital": [
+      "yaren"
+    ]
   },
   {
     "id": 160,
     "nome_pais": "Nepal",
     "bandeira_pais": "imagens bandeiras/Flag_of_Nepal.svg",
-    "capital": "Catmandu"
+    "capital": [
+      "catmandu",
+      "katmandu"
+    ]
   },
   {
     "id": 161,
     "nome_pais": "Nicarágua",
     "bandeira_pais": "imagens bandeiras/Flag_of_Nicaragua.svg",
-    "capital": "Manágua"
+    "capital": [
+      "managua"
+    ]
   },
   {
     "id": 162,
     "nome_pais": "Níger",
     "bandeira_pais": "imagens bandeiras/Flag_of_Niger.svg",
-    "capital": "Niamei"
+    "capital": [
+      "niamei"
+    ]
   },
   {
     "id": 163,
     "nome_pais": "Nigéria",
     "bandeira_pais": "imagens bandeiras/Flag_of_Nigeria.svg",
-    "capital": "Abuja"
+    "capital": [
+      "abuja"
+    ]
   },
   {
     "id": 164,
     "nome_pais": "Niue",
     "bandeira_pais": "imagens bandeiras/Flag_of_Niue.svg",
-    "capital": "Alofi"
+    "capital": [
+      "alofi"
+    ]
   },
   {
     "id": 165,
     "nome_pais": "Noruega",
     "bandeira_pais": "imagens bandeiras/Flag_of_Norway.svg",
-    "capital": "Oslo"
+    "capital": [
+      "oslo"
+    ]
   },
   {
     "id": 166,
     "nome_pais": "Nova Caledônia",
     "bandeira_pais": "imagens bandeiras/Flag_of_FLNKS.svg",
-    "capital": "Nouméa"
+    "capital": [
+      "noumea"
+    ]
   },
   {
     "id": 167,
     "nome_pais": "Nova Zelândia",
     "bandeira_pais": "imagens bandeiras/Flag_of_New_Zealand.svg",
-    "capital": "Wellington"
+    "capital": [
+      "wellington"
+    ]
   },
   {
     "id": 168,
     "nome_pais": "Omã",
     "bandeira_pais": "imagens bandeiras/Flag_of_Oman.svg",
-    "capital": "Mascate"
+    "capital": [
+      "mascate"
+    ]
   },
   {
     "id": 169,
     "nome_pais": "Ossétia do Sul",
     "bandeira_pais": "imagens bandeiras/Flag_of_South_Ossetia.svg",
-    "capital": "Tskhinvali"
+    "capital": [
+      "tskhinvali"
+    ]
   },
   {
     "id": 170,
     "nome_pais": "Países Baixos",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Netherlands.svg",
-    "capital": "Amesterdão"
+    "capital": [
+      "amesterdao",
+      "amsterdam",
+      "amsterda"
+    ]
   },
   {
     "id": 171,
     "nome_pais": "Países Baixos Caribenhos",
     "bandeira_pais": "imagens bandeiras/68801517-bandeira-do-caribe-paises-baixos-vetor.jpg",
-    "capital": "Willemstad"
+    "capital": [
+      "willemstad"
+    ]
   },
   {
     "id": 172,
     "nome_pais": "Palau",
     "bandeira_pais": "imagens bandeiras/Flag_of_Palau.svg",
-    "capital": "Ngerulmud"
+    "capital": [
+      "ngerulmud"
+    ]
   },
   {
     "id": 173,
     "nome_pais": "Palestina",
     "bandeira_pais": "imagens bandeiras/Flag_of_Palestine.svg",
-    "capital": "Jerusalém Oriental"
+    "capital": [
+      "jerusalem oriental"
+    ]
   },
   {
     "id": 174,
     "nome_pais": "Panamá",
     "bandeira_pais": "imagens bandeiras/Flag_of_Panama.svg",
-    "capital": "Cidade do Panamá"
+    "capital": [
+      "cidade do panama"
+    ]
   },
   {
     "id": 175,
     "nome_pais": "Papua Nova Guiné",
     "bandeira_pais": "imagens bandeiras/Flag_of_Papua_New_Guinea.svg",
-    "capital": "Port Moresby"
+    "capital": [
+      "port moresby"
+    ]
   },
   {
     "id": 176,
     "nome_pais": "Paquistão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Pakistan.svg",
-    "capital": "Islamabad"
+    "capital": [
+      "islamabad",
+      "islamabade"
+    ]
   },
   {
     "id": 177,
     "nome_pais": "Paraguai",
     "bandeira_pais": "imagens bandeiras/Flag_of_Paraguay.svg",
-    "capital": "Assunção"
+    "capital": [
+      "assuncao"
+    ]
   },
   {
     "id": 178,
     "nome_pais": "Peru",
     "bandeira_pais": "imagens bandeiras/Flag_of_Peru.svg",
-    "capital": "Lima"
+    "capital": [
+      "lima"
+    ]
   },
   {
     "id": 179,
     "nome_pais": "Polinésia Francesa",
     "bandeira_pais": "imagens bandeiras/Flag_of_French_Polynesia.svg",
-    "capital": "Papeete"
+    "capital": [
+      "papeete"
+    ]
   },
   {
     "id": 180,
     "nome_pais": "Polônia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Poland.svg",
-    "capital": "Varsóvia"
+    "capital": [
+      "varsovia"
+    ]
   },
   {
     "id": 181,
     "nome_pais": "Porto Rico",
     "bandeira_pais": "imagens bandeiras/Flag_of_Puerto_Rico.svg",
-    "capital": "São João"
+    "capital": [
+      "sao joao"
+    ]
   },
   {
     "id": 182,
     "nome_pais": "Portugal",
     "bandeira_pais": "imagens bandeiras/Flag_of_Portugal_(official).svg",
-    "capital": "Lisboa"
+    "capital": [
+      "lisboa"
+    ]
   },
   {
     "id": 183,
     "nome_pais": "Quênia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Kenya.svg",
-    "capital": "Nairóbi"
+    "capital": [
+      "nairobi"
+    ]
   },
   {
     "id": 184,
     "nome_pais": "Quirguistão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Kyrgyzstan.svg",
-    "capital": "Bisqueque"
+    "capital": [
+      "bisqueque",
+      "bishkek"
+    ]
   },
   {
     "id": 185,
     "nome_pais": "Reino Unido",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_United_Kingdom_(1-2).svg",
-    "capital": "Londres"
+    "capital": [
+      "londres"
+    ]
   },
   {
     "id": 186,
     "nome_pais": "República Checa",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Czech_Republic.svg",
-    "capital": "Praga"
+    "capital": [
+      "praga"
+    ]
   },
   {
     "id": 187,
     "nome_pais": "República Centro-Africana",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Central_African_Republic.svg",
-    "capital": "Bangui"
+    "capital": [
+      "bangui"
+    ]
   },
   {
     "id": 188,
     "nome_pais": "República Democrática do Congo",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
-    "capital": "Quinxassa"
+    "capital": [
+      "quinxassa",
+      "kinshasa"
+    ]
   },
   {
     "id": 189,
     "nome_pais": "República do Congo",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Republic_of_the_Congo.svg",
-    "capital": "Brazzaville"
+    "capital": [
+      "brazzaville"
+    ]
   },
   {
     "id": 190,
     "nome_pais": "República Dominicana",
     "bandeira_pais": "imagens bandeiras/Flag_of_Puerto_Rico.svg",
-    "capital": "Santo Domingo"
+    "capital": [
+      "santo domingo"
+    ]
   },
   {
     "id": 191,
     "nome_pais": "Reunião",
     "bandeira_pais": "imagens bandeiras/Proposed_flag_of_Réunion_(VAR).svg",
-    "capital": "Saint-Denis"
+    "capital": [
+      "saint-denis"
+    ]
   },
   {
     "id": 192,
     "nome_pais": "Romênia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Romania.svg",
-    "capital": "Bucareste"
+    "capital": [
+      "bucareste"
+    ]
   },
   {
     "id": 193,
     "nome_pais": "Ruanda",
     "bandeira_pais": "imagens bandeiras/Flag_of_Rwanda.svg",
-    "capital": "Kigali"
+    "capital": [
+      "kigali"
+    ]
   },
   {
     "id": 194,
     "nome_pais": "Rússia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Russia.svg",
-    "capital": "Moscovo"
+    "capital": [
+      "moscovo",
+      "moscou",
+      "moscow",
+      "moskva"
+    ]
   },
   {
     "id": 195,
     "nome_pais": "Saara Ocidental",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
-    "capital": "Laayoune"
+    "capital": [
+      "laayoune"
+    ]
   },
   {
     "id": 196,
     "nome_pais": "Saint-Pierre e Miquelon",
     "bandeira_pais": "imagens bandeiras/Flag_of_Saint-Pierre_and_Miquelon.svg",
-    "capital": "Saint-Pierre"
+    "capital": [
+      "saint-pierre"
+    ]
   },
   {
     "id": 197,
     "nome_pais": "Samoa",
     "bandeira_pais": "imagens bandeiras/Flag_of_Samoa.svg",
-    "capital": "Apia"
+    "capital": [
+      "apia"
+    ]
   },
   {
     "id": 198,
     "nome_pais": "Samoa Americana",
     "bandeira_pais": "imagens bandeiras/Flag_of_American_Samoa.svg",
-    "capital": "Pago Pago"
+    "capital": [
+      "pago pago"
+    ]
   },
   {
     "id": 199,
     "nome_pais": "San Marino",
     "bandeira_pais": "imagens bandeiras/Flag_of_San_Marino.svg",
-    "capital": "San Marino"
+    "capital": [
+      "san marino"
+    ]
   },
   {
     "id": 200,
     "nome_pais": "Santa Helena, Ascensão, e Tristão da Cunha",
     "bandeira_pais": "imagens bandeiras/Flag_of_Saint_Helena.svg",
-    "capital": "Jamestown"
+    "capital": [
+      "jamestown"
+    ]
   },
   {
     "id": 201,
     "nome_pais": "Santa Lúcia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Saint_Lucia.svg",
-    "capital": "Castries"
+    "capital": [
+      "castries"
+    ]
   },
   {
     "id": 202,
     "nome_pais": "São Bartolomeu",
     "bandeira_pais": "imagens bandeiras/Flag_of_Saint_Barthélemy_(local).svg",
-    "capital": "Gustavia"
+    "capital": [
+      "gustavia"
+    ]
   },
   {
     "id": 203,
     "nome_pais": "São Cristóvão e Nevis",
     "bandeira_pais": "imagens bandeiras/Flag_of_Saint_Kitts_and_Nevis.svg",
-    "capital": "Basseterre"
+    "capital": [
+      "basseterre"
+    ]
   },
   {
     "id": 204,
     "nome_pais": "São Martinho (França)",
     "bandeira_pais": "imagens bandeiras/Sao martinho franca.jpg",
-    "capital": "Marigot"
+    "capital": [
+      "marigot"
+    ]
   },
   {
     "id": 205,
     "nome_pais": "São Martinho (Países Baixos)",
     "bandeira_pais": "imagens bandeiras/Flag_of_Sint_Maarten.svg",
-    "capital": "Philipsburg"
+    "capital": [
+      "philipsburg"
+    ]
   },
   {
     "id": 206,
     "nome_pais": "São Tomé e Príncipe",
     "bandeira_pais": "imagens bandeiras/Flag_of_São_Tomé_and_Príncipe.svg",
-    "capital": "São Tomé"
+    "capital": [
+      "sao tome"
+    ]
   },
   {
     "id": 207,
     "nome_pais": "São Vicente e Granadinas",
     "bandeira_pais": "imagens bandeiras/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
-    "capital": "Kingstown"
+    "capital": [
+      "kingstown"
+    ]
   },
   {
     "id": 208,
     "nome_pais": "Senegal",
     "bandeira_pais": "imagens bandeiras/Flag_of_Senegal.svg",
-    "capital": "Dacar"
+    "capital": [
+      "dacar",
+      "dakar"
+    ]
   },
   {
     "id": 209,
     "nome_pais": "Serra Leoa",
     "bandeira_pais": "imagens bandeiras/Flag_of_Sierra_Leone.svg",
-    "capital": "Freetown"
+    "capital": [
+      "freetown"
+    ]
   },
   {
     "id": 210,
     "nome_pais": "Sérvia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Serbia.svg",
-    "capital": "Belgrado"
+    "capital": [
+      "belgrado"
+    ]
   },
   {
     "id": 211,
     "nome_pais": "Seychelles",
     "bandeira_pais": "imagens bandeiras/Flag_of_Seychelles.svg",
-    "capital": "Victória"
+    "capital": [
+      "victoria"
+    ]
   },
   {
     "id": 212,
     "nome_pais": "Singapura",
     "bandeira_pais": "imagens bandeiras/Flag_of_Singapore.svg",
-    "capital": "Singapura"
+    "capital": [
+      "singapura"
+    ]
   },
   {
     "id": 213,
     "nome_pais": "Síria",
     "bandeira_pais": "imagens bandeiras/Flag_of_Syria_(2025-).svg",
-    "capital": "Damasco"
+    "capital": [
+      "damasco"
+    ]
   },
   {
     "id": 214,
     "nome_pais": "Somália",
     "bandeira_pais": "imagens bandeiras/Flag_of_Somalia.svg",
-    "capital": "Mogadíscio"
+    "capital": [
+      "mogadiscio"
+    ]
   },
   {
     "id": 215,
     "nome_pais": "Somalilândia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Somaliland.svg",
-    "capital": "Hargeisa"
+    "capital": [
+      "hargeisa"
+    ]
   },
   {
     "id": 216,
     "nome_pais": "Sri Lanka",
     "bandeira_pais": "imagens bandeiras/Flag_of_Sri_Lanka.svg",
-    "capital": "Sri Jayawardenapura Kotte"
+    "capital": [
+      "sri jayawardenapura kotte",
+      "kotte",
+      "colombo"
+    ]
   },
   {
     "id": 217,
     "nome_pais": "Sudão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Sudan.svg",
-    "capital": "Cartum"
+    "capital": [
+      "cartum"
+    ]
   },
   {
     "id": 218,
     "nome_pais": "Sudão do Sul",
     "bandeira_pais": "imagens bandeiras/Flag_of_South_Sudan.svg",
-    "capital": "Juba"
+    "capital": [
+      "juba"
+    ]
   },
   {
     "id": 219,
     "nome_pais": "Suécia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Sweden.svg",
-    "capital": "Estocolmo"
+    "capital": [
+      "estocolmo"
+    ]
   },
   {
     "id": 220,
     "nome_pais": "Suíça",
     "bandeira_pais": "imagens bandeiras/Flag_of_Switzerland_(Pantone).svg",
-    "capital": "Berna"
+    "capital": [
+      "berna"
+    ]
   },
   {
     "id": 221,
     "nome_pais": "Suriname",
     "bandeira_pais": "imagens bandeiras/Flag_of_Suriname.svg",
-    "capital": "Paramaribo"
+    "capital": [
+      "paramaribo"
+    ]
   },
   {
     "id": 222,
     "nome_pais": "Svalbard e Jan Mayen",
     "bandeira_pais": "imagens bandeiras/Flag_of_Norway.svg",
-    "capital": "Longyearbyen"
+    "capital": [
+      "longyearbyen"
+    ]
   },
   {
     "id": 223,
     "nome_pais": "Tailândia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Thailand.svg",
-    "capital": "Banguecoque"
+    "capital": [
+      "banguecoque",
+      "bangkok",
+      "bancoc"
+    ]
   },
   {
     "id": 224,
     "nome_pais": "Taiwan",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_People's_Republic_of_China.svg",
-    "capital": "Taipé"
+    "capital": [
+      "taipe",
+      "taipei"
+    ]
   },
   {
     "id": 225,
     "nome_pais": "Tajiquistão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tajikistan.svg",
-    "capital": "Duchambé"
+    "capital": [
+      "duchambe"
+    ]
   },
   {
     "id": 226,
     "nome_pais": "Tanzânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tanzania.svg",
-    "capital": "Dodoma"
+    "capital": [
+      "dodoma"
+    ]
   },
   {
     "id": 227,
     "nome_pais": "Timor-Leste",
     "bandeira_pais": "imagens bandeiras/Flag_of_East_Timor.svg",
-    "capital": "Díli"
+    "capital": [
+      "dili"
+    ]
   },
   {
     "id": 228,
     "nome_pais": "Togo",
     "bandeira_pais": "imagens bandeiras/Flag_of_Togo.svg",
-    "capital": "Lomé"
+    "capital": [
+      "lome"
+    ]
   },
   {
     "id": 229,
     "nome_pais": "Tonga",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tonga.svg",
-    "capital": "Nuku'alofa"
+    "capital": [
+      "nuku'alofa"
+    ]
   },
   {
     "id": 230,
     "nome_pais": "Toquelau",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tokelau.svg",
-    "capital": "Atafu"
+    "capital": [
+      "atafu"
+    ]
   },
   {
     "id": 231,
     "nome_pais": "Transnistria",
     "bandeira_pais": "imagens bandeiras/Flag_of_Transnistria_(state).svg",
-    "capital": "Tiraspol"
+    "capital": [
+      "tiraspol"
+    ]
   },
   {
     "id": 232,
     "nome_pais": "Trinidad e Tobago",
     "bandeira_pais": "imagens bandeiras/Flag_of_Trinidad_and_Tobago.svg",
-    "capital": "Port of Spain"
+    "capital": [
+      "port of spain"
+    ]
   },
   {
     "id": 233,
     "nome_pais": "Tunísia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tunisia.svg",
-    "capital": "Tunes"
+    "capital": [
+      "tunes",
+      "tunis"
+    ]
   },
   {
     "id": 234,
     "nome_pais": "Turquemenistão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Turkmenistan.svg",
-    "capital": "Asgabate"
+    "capital": [
+      "asgabate"
+    ]
   },
   {
     "id": 235,
     "nome_pais": "Turquia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Turkey.svg",
-    "capital": "Ancara"
+    "capital": [
+      "ancara",
+      "ankara"
+    ]
   },
   {
     "id": 236,
     "nome_pais": "Tuvalu",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tuvalu.svg",
-    "capital": "Funafuti"
+    "capital": [
+      "funafuti"
+    ]
   },
   {
     "id": 237,
     "nome_pais": "Ucrânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Ukraine.svg",
-    "capital": "Kiev"
+    "capital": [
+      "kiev"
+    ]
   },
   {
     "id": 238,
     "nome_pais": "Uganda",
     "bandeira_pais": "imagens bandeiras/Flag_of_Uganda.svg",
-    "capital": "Kampala"
+    "capital": [
+      "kampala"
+    ]
   },
   {
     "id": 239,
     "nome_pais": "Uruguai",
     "bandeira_pais": "imagens bandeiras/Flag_of_Uruguay.svg",
-    "capital": "Montevidéu"
+    "capital": [
+      "montevideu"
+    ]
   },
   {
     "id": 240,
     "nome_pais": "Uzbequistão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Uzbekistan.svg",
-    "capital": "Tasquente"
+    "capital": [
+      "tasquente",
+      "tashkent"
+    ]
   },
   {
     "id": 241,
     "nome_pais": "Vanuatu",
     "bandeira_pais": "imagens bandeiras/Flag_of_Vanuatu.svg",
-    "capital": "Port Vila"
+    "capital": [
+      "port vila"
+    ]
   },
   {
     "id": 242,
     "nome_pais": "Vaticano",
     "bandeira_pais": "imagens bandeiras/Flag_of_Vatican_City_(2023–present).svg",
-    "capital": "Cidade do Vaticano"
+    "capital": [
+      "cidade do vaticano"
+    ]
   },
   {
     "id": 243,
     "nome_pais": "Venezuela",
     "bandeira_pais": "imagens bandeiras/Flag_of_Venezuela.svg",
-    "capital": "Caracas"
+    "capital": [
+      "caracas"
+    ]
   },
   {
     "id": 244,
     "nome_pais": "Vietname",
     "bandeira_pais": "imagens bandeiras/Flag_of_Vietnam.svg",
-    "capital": "Hanói"
+    "capital": [
+      "hanoi"
+    ]
   },
   {
     "id": 245,
     "nome_pais": "Wallis e Futuna",
     "bandeira_pais": "imagens bandeiras/Flag_of_Wallis_and_Futuna.svg",
-    "capital": "Mata-Utu"
+    "capital": [
+      "mata-utu"
+    ]
   },
   {
     "id": 246,
     "nome_pais": "Zâmbia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Zambia.svg",
-    "capital": "Lusaka"
+    "capital": [
+      "lusaka"
+    ]
   },
   {
     "id": 247,
     "nome_pais": "Zimbábue",
     "bandeira_pais": "imagens bandeiras/Flag_of_Zimbabwe.svg",
-    "capital": "Harare"
+    "capital": [
+      "harare"
+    ]
   }
 ]
