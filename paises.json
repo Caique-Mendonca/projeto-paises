@@ -140,7 +140,8 @@
     "nome_pais": "Azerbaijão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Azerbaijan.svg",
     "capital": [
-      "baku"
+      "baku",
+      "bacu"
     ]
   },
   {
@@ -196,7 +197,9 @@
     "nome_pais": "Benim",
     "bandeira_pais": "imagens bandeiras/Flag_of_Benin.svg",
     "capital": [
-      "porto-novo"
+      "porto-novo",
+      "cotonu",
+      "cotonou"
     ]
   },
   {
@@ -212,7 +215,8 @@
     "nome_pais": "Bielorrússia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Belarus.svg",
     "capital": [
-      "minsk"
+      "minsk",
+      "minsque"
     ]
   },
   {
@@ -220,7 +224,8 @@
     "nome_pais": "Birmânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Myanmar.svg",
     "capital": [
-      "naypyidaw"
+      "naypyidaw",
+      "naipidau"
     ]
   },
   {
@@ -237,7 +242,8 @@
     "nome_pais": "Bósnia e Herzegovina",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bosnia_and_Herzegovina.svg",
     "capital": [
-      "sarajevo"
+      "sarajevo",
+      "saraievo"
     ]
   },
   {
@@ -261,7 +267,8 @@
     "nome_pais": "Brunei",
     "bandeira_pais": "imagens bandeiras/Flag_of_Brunei.svg",
     "capital": [
-      "bandar seri begawan"
+      "bandar seri begawan",
+      "bandar seri Begauã"
     ]
   },
   {
@@ -277,7 +284,8 @@
     "nome_pais": "Burkina Faso",
     "bandeira_pais": "imagens bandeiras/Flag_of_Burkina_Faso.svg",
     "capital": [
-      "uagadugu"
+      "uagadugu",
+      "ouagadougou"
     ]
   },
   {
@@ -285,7 +293,8 @@
     "nome_pais": "Burundi",
     "bandeira_pais": "imagens bandeiras/Flag_of_Burundi.svg",
     "capital": [
-      "gitega"
+      "gitega",
+      "guitega"
     ]
   },
   {
@@ -293,7 +302,8 @@
     "nome_pais": "Butão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Bhutan.svg",
     "capital": [
-      "thimphu"
+      "thimphu",
+      "timbu"
     ]
   },
   {
@@ -318,7 +328,8 @@
     "nome_pais": "Camboja",
     "bandeira_pais": "imagens bandeiras/Flag_of_Cambodia.svg",
     "capital": [
-      "phnom penh"
+      "phnom penh",
+      "pnom pen"
     ]
   },
   {
@@ -326,7 +337,8 @@
     "nome_pais": "Canadá",
     "bandeira_pais": "imagens bandeiras/Flag_of_Canada_(Pantone).svg",
     "capital": [
-      "ottawa"
+      "ottawa",
+      "otava"
     ]
   },
   {
@@ -334,7 +346,8 @@
     "nome_pais": "Catar",
     "bandeira_pais": "imagens bandeiras/Flag_of_Qatar.svg",
     "capital": [
-      "doha"
+      "doha",
+      "doa"
     ]
   },
   {
@@ -408,7 +421,8 @@
     "nome_pais": "Coreia do Norte",
     "bandeira_pais": "imagens bandeiras/Flag_of_North_Korea.svg",
     "capital": [
-      "pyongyang"
+      "pyongyang",
+      "pionguiangue"
     ]
   },
   {
@@ -424,7 +438,8 @@
     "nome_pais": "Costa do Marfim",
     "bandeira_pais": "imagens bandeiras/Flag_of_Côte_d'Ivoire.svg",
     "capital": [
-      "yamoussoukro"
+      "yamoussoukro",
+      "iamussucro"
     ]
   },
   {
@@ -432,7 +447,8 @@
     "nome_pais": "Costa Rica",
     "bandeira_pais": "imagens bandeiras/Flag_of_Costa_Rica.svg",
     "capital": [
-      "sao jose"
+      "sao jose",
+      "san jose"
     ]
   },
   {
@@ -440,7 +456,8 @@
     "nome_pais": "Croácia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Croatia.svg",
     "capital": [
-      "zagreb"
+      "zagreb",
+      "zagrebe"
     ]
   },
   {
@@ -506,7 +523,8 @@
     "nome_pais": "Emirados Árabes Unidos",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_United_Arab_Emirates.svg",
     "capital": [
-      "abu dhabi"
+      "abu dhabi",
+      "abu dabi"
     ]
   },
   {
@@ -580,7 +598,8 @@
     "nome_pais": "Estônia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Estonia.svg",
     "capital": [
-      "tallinn"
+      "tallinn",
+      "talim"
     ]
   },
   {
@@ -672,7 +691,8 @@
     "nome_pais": "Granada",
     "bandeira_pais": "imagens bandeiras/Flag_of_Grenada.svg",
     "capital": [
-      "st. george's"
+      "st. george's",
+      "saint george's"
     ]
   },
   {
@@ -720,7 +740,8 @@
     "nome_pais": "Guernsey",
     "bandeira_pais": "imagens bandeiras/Flag_of_Guernsey.svg",
     "capital": [
-      "st. peter port"
+      "st. peter port",
+      "saint peter port"
     ]
   },
   {
@@ -841,7 +862,8 @@
     "nome_pais": "Ilhas Cocos (Keeling)",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Cocos_(Keeling)_Island.svg",
     "capital": [
-      "west island"
+      "west island",
+      "ilha ocidental"
     ]
   },
   {
@@ -873,7 +895,8 @@
     "nome_pais": "Ilhas Marianas do Norte",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Northern_Mariana_Islands.svg",
     "capital": [
-      "saipan"
+      "saipan",
+      "saipao"
     ]
   },
   {
@@ -956,7 +979,8 @@
     "nome_pais": "Iraque",
     "bandeira_pais": "imagens bandeiras/Flag_of_Iraq.svg",
     "capital": [
-      "bagda"
+      "bagda",
+      "bagdade"
     ]
   },
   {
@@ -972,7 +996,8 @@
     "nome_pais": "Islândia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Iceland.svg",
     "capital": [
-      "reykjavik"
+      "reykjavik",
+      "reiquiavique"
     ]
   },
   {
@@ -1012,7 +1037,8 @@
     "nome_pais": "Jersey",
     "bandeira_pais": "imagens bandeiras/Flag_of_Jersey.svg",
     "capital": [
-      "st. helier"
+      "st. helier",
+      "saint helier"
     ]
   },
   {
@@ -1028,7 +1054,9 @@
     "nome_pais": "Kiribati",
     "bandeira_pais": "imagens bandeiras/Flag_of_Kiribati.svg",
     "capital": [
-      "tarawa do sul"
+      "tarawa do sul",
+      "tarawa",
+      "taraua"
     ]
   },
   {
@@ -1044,7 +1072,8 @@
     "nome_pais": "Kuweit",
     "bandeira_pais": "imagens bandeiras/Flag_of_Kuwait.svg",
     "capital": [
-      "kuwait"
+      "kuwait",
+      "kuweit"
     ]
   },
   {
@@ -1150,7 +1179,8 @@
     "nome_pais": "Malásia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Malaysia.svg",
     "capital": [
-      "kuala lumpur"
+      "kuala lumpur",
+      "cualalampur"
     ]
   },
   {
@@ -1158,7 +1188,8 @@
     "nome_pais": "Malawi",
     "bandeira_pais": "imagens bandeiras/Flag_of_Malawi.svg",
     "capital": [
-      "lilongwe"
+      "lilongwe",
+      "lilongue"
     ]
   },
   {
@@ -1174,7 +1205,8 @@
     "nome_pais": "Mali",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mali.svg",
     "capital": [
-      "bamako"
+      "bamako",
+      "bamaco"
     ]
   },
   {
@@ -1199,7 +1231,8 @@
     "nome_pais": "Martinica",
     "bandeira_pais": "imagens bandeiras/Flag-of-Martinique.svg",
     "capital": [
-      "fort-de-france"
+      "fort-de-france",
+      "forte-de-franca"
     ]
   },
   {
@@ -1207,7 +1240,8 @@
     "nome_pais": "Maurícia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mauritius.svg",
     "capital": [
-      "port louis"
+      "port louis",
+      "porto luis"
     ]
   },
   {
@@ -1215,7 +1249,8 @@
     "nome_pais": "Mauritânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mauritania.svg",
     "capital": [
-      "nouakchott"
+      "nouakchott",
+      "nuaquechote"
     ]
   },
   {
@@ -1223,7 +1258,8 @@
     "nome_pais": "Mayotte",
     "bandeira_pais": "imagens bandeiras/Flag_of_Mayotte_(local).svg",
     "capital": [
-      "mamoudzou"
+      "mamoudzou",
+      "mamudzu"
     ]
   },
   {
@@ -1247,7 +1283,8 @@
     "nome_pais": "Moldávia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Moldova.svg",
     "capital": [
-      "chisinau"
+      "chisinau",
+      "quixinau"
     ]
   },
   {
@@ -1264,7 +1301,8 @@
     "bandeira_pais": "imagens bandeiras/Flag_of_Mongolia.svg",
     "capital": [
       "ulan bator",
-      "ulaanbaatar"
+      "ulaanbaatar",
+      "ula bator"
     ]
   },
   {
@@ -1272,7 +1310,8 @@
     "nome_pais": "Montenegro",
     "bandeira_pais": "imagens bandeiras/Flag_of_Montenegro.svg",
     "capital": [
-      "podgorica"
+      "podgorica",
+      "podgóritsa"
     ]
   },
   {
@@ -1280,7 +1319,8 @@
     "nome_pais": "Montserrat",
     "bandeira_pais": "imagens bandeiras/Flag_of_Montserrat.svg",
     "capital": [
-      "plymouth"
+      "plymouth",
+      "brades"
     ]
   },
   {
@@ -1288,7 +1328,8 @@
     "nome_pais": "Namíbia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Botswana.svg",
     "capital": [
-      "windhoek"
+      "windhoek",
+      "vinduque"
     ]
   },
   {
@@ -1353,7 +1394,8 @@
     "nome_pais": "Nova Caledônia",
     "bandeira_pais": "imagens bandeiras/Flag_of_FLNKS.svg",
     "capital": [
-      "noumea"
+      "noumea",
+      "numea"
     ]
   },
   {
@@ -1377,7 +1419,8 @@
     "nome_pais": "Ossétia do Sul",
     "bandeira_pais": "imagens bandeiras/Flag_of_South_Ossetia.svg",
     "capital": [
-      "tskhinvali"
+      "tskhinvali",
+      "tskhinval"
     ]
   },
   {
@@ -1411,7 +1454,9 @@
     "nome_pais": "Palestina",
     "bandeira_pais": "imagens bandeiras/Flag_of_Palestine.svg",
     "capital": [
-      "jerusalem oriental"
+      "jerusalem oriental",
+      "ramala",
+      "ramallah"
     ]
   },
   {
@@ -1427,7 +1472,8 @@
     "nome_pais": "Papua Nova Guiné",
     "bandeira_pais": "imagens bandeiras/Flag_of_Papua_New_Guinea.svg",
     "capital": [
-      "port moresby"
+      "port moresby",
+      "porto moresby"
     ]
   },
   {
@@ -1542,7 +1588,8 @@
     "nome_pais": "República do Congo",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Republic_of_the_Congo.svg",
     "capital": [
-      "brazzaville"
+      "brazzaville",
+      "brazavile"
     ]
   },
   {
@@ -1550,7 +1597,8 @@
     "nome_pais": "República Dominicana",
     "bandeira_pais": "imagens bandeiras/Flag_of_Puerto_Rico.svg",
     "capital": [
-      "santo domingo"
+      "santo domingo",
+      "sao domingos"
     ]
   },
   {
@@ -1558,7 +1606,8 @@
     "nome_pais": "Reunião",
     "bandeira_pais": "imagens bandeiras/Proposed_flag_of_Réunion_(VAR).svg",
     "capital": [
-      "saint-denis"
+      "saint-denis",
+      "sao dinis"
     ]
   },
   {
@@ -1574,7 +1623,8 @@
     "nome_pais": "Ruanda",
     "bandeira_pais": "imagens bandeiras/Flag_of_Rwanda.svg",
     "capital": [
-      "kigali"
+      "kigali",
+      "quigali"
     ]
   },
   {
@@ -1593,7 +1643,8 @@
     "nome_pais": "Saara Ocidental",
     "bandeira_pais": "imagens bandeiras/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
     "capital": [
-      "laayoune"
+      "laayoune",
+      "el Aiune"
     ]
   },
   {
@@ -1722,7 +1773,8 @@
     "nome_pais": "Seychelles",
     "bandeira_pais": "imagens bandeiras/Flag_of_Seychelles.svg",
     "capital": [
-      "victoria"
+      "victoria",
+      "vitoria"
     ]
   },
   {
@@ -1839,7 +1891,8 @@
     "nome_pais": "Tajiquistão",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tajikistan.svg",
     "capital": [
-      "duchambe"
+      "duchambe",
+      "duxambe"
     ]
   },
   {
@@ -1895,7 +1948,9 @@
     "nome_pais": "Trinidad e Tobago",
     "bandeira_pais": "imagens bandeiras/Flag_of_Trinidad_and_Tobago.svg",
     "capital": [
-      "port of spain"
+      "port of spain",
+      "porto de espanha",
+      "port-of-spain"
     ]
   },
   {
@@ -1929,7 +1984,8 @@
     "nome_pais": "Tuvalu",
     "bandeira_pais": "imagens bandeiras/Flag_of_Tuvalu.svg",
     "capital": [
-      "funafuti"
+      "funafuti",
+      "fongafale"
     ]
   },
   {
@@ -1937,7 +1993,8 @@
     "nome_pais": "Ucrânia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Ukraine.svg",
     "capital": [
-      "kiev"
+      "kiev",
+      "quieve"
     ]
   },
   {
@@ -1945,7 +2002,8 @@
     "nome_pais": "Uganda",
     "bandeira_pais": "imagens bandeiras/Flag_of_Uganda.svg",
     "capital": [
-      "kampala"
+      "kampala",
+      "campala"
     ]
   },
   {
@@ -1970,7 +2028,8 @@
     "nome_pais": "Vanuatu",
     "bandeira_pais": "imagens bandeiras/Flag_of_Vanuatu.svg",
     "capital": [
-      "port vila"
+      "port vila",
+      "porto vila"
     ]
   },
   {
@@ -2010,7 +2069,8 @@
     "nome_pais": "Zâmbia",
     "bandeira_pais": "imagens bandeiras/Flag_of_Zambia.svg",
     "capital": [
-      "lusaka"
+      "lusaka",
+      "lusaca"
     ]
   },
   {
