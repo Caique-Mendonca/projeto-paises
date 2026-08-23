@@ -1,0 +1,15 @@
+.paises-section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.container{
+    border: 1px black solid;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 8px;
+}
+.bandeira-pais{
+    object-fit: cover;
+    width: 150px;
+}
