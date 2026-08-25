@@ -649,7 +649,7 @@
   {
     "id": 77,
     "nome_pais": "Gabão",
-    "bandeira_pais": "imagens bandeiras/Flag_of_Georgia.svg",
+    "bandeira_pais": "imagens bandeiras/Flag_of_Gabon.svg",
     "capital": [
       "libreville",
       "librevile"
@@ -1297,7 +1297,7 @@
   {
     "id": 154,
     "nome_pais": "Mônaco",
-    "bandeira_pais": "imagens bandeiras/Flag_of_Andorra.svg",
+    "bandeira_pais": "imagens bandeiras/Flag_of_Monaco.svg",
     "capital": [
       "monaco"
     ]
@@ -1887,7 +1887,7 @@
   {
     "id": 224,
     "nome_pais": "Taiwan",
-    "bandeira_pais": "imagens bandeiras/Flag_of_the_People's_Republic_of_China.svg",
+    "bandeira_pais": "imagens bandeiras/Flag_of_the_Republic_of_China.svg",
     "capital": [
       "taipe",
       "taipei"
