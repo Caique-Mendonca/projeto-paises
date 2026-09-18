@@ -8,9 +8,14 @@ async function carregarDados() {
     dados.forEach(pais => {
         paisesSection.innerHTML+= `
                 <div class="container">
-                    <img class="bandeira-pais" src="${pais.bandeira_pais}">
-                    <h2>${pais.nome_pais}</h2>
-                    <p>Capital: <strong>${primeiraMaiuscula(pais.capital[0])}</strong></p>
+                    <div class="header-container">
+                        <img class="bandeira-pais" src="${pais.bandeira_pais}">
+                    </div>
+                    <div>
+                        <h2>${pais.nome_pais}</h2>
+                        <p>Capital: <strong>${primeiraMaiuscula(pais.capital[0])}</strong></p>
+                    
+                    </div>
                 </div>
         `
     });
